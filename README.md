@@ -1,2 +1,2 @@
-# ¡Ya aprendí a usar Git y GitHub con mi tutor!"
+# ¡Ya aprendí a usar Git y GitHub!"
 
